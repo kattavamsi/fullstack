@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>
+table - html example
+</title>
+</head>
+<body>
+<h1> order table </h1>
+<hr/>
+<table border="3">
+  <th> SL No </th>
+   <th> Name </th>
+   <th>Company </th>
+             
+            <tr>
+            
+                <td>1</td>
+                <td>Vijay</td>
+                <td>Greet Labs</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Mamatha</td>
+                <td>Geeky Ants</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Vamsi</td>
+                <td> SE</td> 
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Kartik - USA</td>
+                <td> Amezon Customer Service</td>
+            </tr>
+        </table>
+    </body>
+</html>
