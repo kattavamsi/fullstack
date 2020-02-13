@@ -1,0 +1,14 @@
+git remote add origin https://github.com/kattavamsi/fullstack.git
+
+
+git init
+git commit -m "some message"
+
+git config user.email "emailid"
+git config user.name  "gitusername"
+
+git remote add origin "Gitrepo url"
+
+git push -f origin master
+
+git pull origin master
